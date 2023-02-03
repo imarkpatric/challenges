@@ -1,0 +1,15 @@
+.row {
+  margin: 3rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+.row .shelf {
+  width: 100%;
+  padding: 1rem;
+}
+.row #depot {
+  padding: 3rem;
+}
+.row .mr {
+  margin-right: 20px;
+}/*# sourceMappingURL=main.css.map */
